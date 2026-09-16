@@ -1,6 +1,6 @@
 {
   "name": "@lyngaamarine/ts-lib-polyfill",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Polyfill library for TypeScript",
   "author": "chocolateandmilkwin",
   "license": "MIT",
@@ -32,12 +32,12 @@
     "upgrade": "npx npm-check-updates --target semver -u && npm install"
   },
   "devDependencies": {
-    "@chocbite/ts-supplement-eslint": "^1.0.3",
+    "@chocbite/ts-supplement-eslint": "^1.0.4",
     "typescript": "^6.0.3",
     "tsdown": "^0.21.10",
-    "vite": "^8.1.0",
-    "vitest": "^4.1.9",
-    "eslint": "^10.5.0",
-    "@vitest/browser-playwright": "^4.1.9"
+    "vite": "^8.3.0",
+    "vitest": "^4.1.11",
+    "eslint": "^10.10.0",
+    "@vitest/browser-playwright": "^4.1.11"
   }
 }
